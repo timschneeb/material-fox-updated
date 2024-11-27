@@ -1,3 +1,10 @@
 @import "user-content.css";
 @import "theme-material-blue.css";
+@import "theme-material-green.css";
+@import "theme-material-red.css";
+@import "theme-material-yellow.css";
+@import "theme-system-accent.css";
+@import "theme-dracula.css";
+@import "theme-github.css";
+
 @import "custom.css";
